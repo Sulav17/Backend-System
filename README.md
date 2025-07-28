@@ -81,6 +81,5 @@ README.md # This file
 ```bash
 git clone https://github.com/your-username/fastapi-rag-backend.git
 cd fastapi-rag-backend
-
-
 cp .env.example .env
+docker compose up -d
