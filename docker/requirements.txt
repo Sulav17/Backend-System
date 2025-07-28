@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+qdrant-client
+sentence-transformers
+PyPDF2
+pymupdf
+redis
+sqlalchemy
+psycopg2-binary
+python-dotenv
+email-validator
+celery
+python-multipart
+langchain-community
+fastapi_mail

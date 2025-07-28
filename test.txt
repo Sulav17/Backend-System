@@ -1,0 +1,4 @@
+FastAPI is a modern web framework for building APIs.
+It is fast and built on top of Starlette and Pydantic.
+
+You can use it with LangChain to build LLM agents.
